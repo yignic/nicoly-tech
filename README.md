@@ -1,2 +1,3 @@
 # nicoly-tech
-my first project
+git test
+
